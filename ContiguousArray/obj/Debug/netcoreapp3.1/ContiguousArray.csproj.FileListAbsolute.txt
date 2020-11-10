@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.exe
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.deps.json
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.dll
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\bin\Debug\netcoreapp3.1\ContiguousArray.pdb
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.dll
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.pdb
+C:\Users\monisha.khapali\source\repos\ContiguousArray\ContiguousArray\obj\Debug\netcoreapp3.1\ContiguousArray.genruntimeconfig.cache
